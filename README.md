@@ -1,14 +1,14 @@
 # IBM Data Analyst Professional Certificate Capstone Project
 
 # Table of Contents
-1. Introduction
-2. Data Collection
-3. Data Wrangling
-4. Exploratory Data Analysis
-5. Data Visualizations
-6. Dashboard Creation
-7. Presentation of Findings
-8. Conclusion
+1. [Introduction](https://github.com/Bipin-11/IBM-Data-Analyst-Capstone-Project/tree/main?tab=readme-ov-file#introduction)
+2. [Data Collection](https://github.com/Bipin-11/IBM-Data-Analyst-Capstone-Project/tree/main?tab=readme-ov-file#module-1-data-collection)
+3. [Data Wrangling](https://github.com/Bipin-11/IBM-Data-Analyst-Capstone-Project/tree/main?tab=readme-ov-file#module-2-data-wrangling)
+4. [Exploratory Data Analysis](https://github.com/Bipin-11/IBM-Data-Analyst-Capstone-Project/tree/main?tab=readme-ov-file#module-3-exploratory-data-analysis)
+5. [Data Visualizations](https://github.com/Bipin-11/IBM-Data-Analyst-Capstone-Project/tree/main?tab=readme-ov-file#module-4-data-visualization)
+6. [Dashboard Creation](https://github.com/Bipin-11/IBM-Data-Analyst-Capstone-Project/tree/main?tab=readme-ov-file#module-5--dashboard-creation)
+7. [Presentation of Findings](https://github.com/Bipin-11/IBM-Data-Analyst-Capstone-Project/tree/main?tab=readme-ov-file#module-6-presentation-of-findings)
+8. [Conclusion](https://github.com/Bipin-11/IBM-Data-Analyst-Capstone-Project/tree/main?tab=readme-ov-file#conclusion)
 
 # Introduction
 As a newly hired data analyst at a prominent IT and business consulting firm, my primary responsibility is to support the organization's efforts in identifying future skill requirements through data analysis. I will collect data from diverse sources, such as job postings, training portals, and surveys, to identify emerging programming skills.
